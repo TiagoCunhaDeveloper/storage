@@ -119,7 +119,7 @@ setTimeout(function () {
       </ol>
       <div class="card mb-3">
 	   <div   style="height:600px;" id="main">
-        <a id="addButton" class="green-button" href="add_note.html">Add <i class="fa fa-sticky-note" aria-hidden="true"></i></a>
+        <a id="addButton" class="green-button" href="add_note.html" style="left:30%">Add <i class="fa fa-sticky-note" aria-hidden="true"></i></a>
     
 	<?php echo $notes; ?>
       
