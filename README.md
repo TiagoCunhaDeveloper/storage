@@ -62,6 +62,7 @@ Quando o sistema encontra arquivos iguais nos formatos de texto e/ou códigos, e
 
 ## Como testar o sistema
 - Ter um sevidor web, exemplo Apache
-- Importar a base de dados (mysql)
+- Importar a base de dados localizada em base_de_dados (importar)/bd_storage.sql (mysql)
+- Configurar o arquivo de conexão, localizado em inc/conexao.php
 - Login do adm (Email: admin@admin.com, Senha: 123123123)
 - Usuário (Sem usuários para testes, para criar um basta ir em "Crie sua conta", para logar va no cadastro do usuário no banco de dados e mude a coluna "status_email" de 0 para 1, pois é a validação de e-mail do usuário)
