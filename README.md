@@ -4,8 +4,7 @@ O GT Storage é um sistema web feito em php (estruturado),js,html,css de gerenci
 
 ## Usuário
 
-![](https://lh3.google.com/u/0/d/1eyRrI2SL2IM9C-f2t4s0akOF91u8gha6=w1920-h969-iv1)
-<img src="https://lh3.google.com/u/0/d/1eyRrI2SL2IM9C-f2t4s0akOF91u8gha6=w1920-h969-iv1">
+![1](https://user-images.githubusercontent.com/46055504/62573466-7d51c380-b86c-11e9-8856-323837235178.PNG)
 
 ### Funcionalidades
 - Gerenciamento de arquivos (Upload/Exclusão/Edição/Compartilhamento (através de e-mail e/ou um link compartilhável))
